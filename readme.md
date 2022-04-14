@@ -1,7 +1,7 @@
-## Py Social Bots
+# Py Social Bots
 - Includes mass unfollow for Instagram
 
-# To run:
+## To run:
 - Get gecko driver (and put it in python folder).
 - Create virtualenv and clone repo: https://github.com/mozilla/geckodriver/releases
 
