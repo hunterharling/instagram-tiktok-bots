@@ -1,6 +1,5 @@
 from selenium import webdriver
 from utils import wait
-import time
 from credentials import TIKTOK_USER
 
 # mass follow+unfollow
